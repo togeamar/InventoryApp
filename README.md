@@ -1,12 +1,11 @@
-Inventory - Starter Code
+Inventory
 ==================================
 
-Starter code for Android Basics in Kotlin.
 
 Introduction
 ------------
 
-This app is an stater code for an Inventory tracking app. Demos how to add, update, sell, and delete
+ Demos how to add, update, sell, and delete
  items from the local database.
 This app demonstrated
 the use of Android Jetpack component [Room](https://developer.android.com/training/data-storage/room) database.  
@@ -30,7 +29,4 @@ You need to know:
 - SQLite database and the SQLite query language
 
 
-Getting Started
----------------
 
-1. Download and run the app.
